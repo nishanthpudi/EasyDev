@@ -1,0 +1,2 @@
+# EasyDev
+Applications under EasyDev
